@@ -46,4 +46,4 @@
 
 ### Trexton's Discord Server:
 
-(<img align="left" alt="Trexton officials Discord Server" src="https://media.discordapp.net/attachments/877494014742503445/911597643266949130/trexton-logo.png"/>)[https://discord.gg/bFvWhF3whF]
+<img align="left" alt="Trexton officials Discord Server" src="https://media.discordapp.net/attachments/877494014742503445/911597643266949130/trexton-logo.png"/>[https://discord.gg/bFvWhF3whF]
