@@ -32,7 +32,7 @@
 
 ### My GitHub Stats:
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=real-ping&show_icons=true&hide_border=true&count_private=true" />
+  <img align="left" alt="real-ping's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=real-ping&show_icons=true&hide_border=true&count_private=true" />
 
 <br>
 <br>
@@ -45,6 +45,5 @@
 <br>
 
 ### Trexton's Discord Server:
-<div>
-  <iframe src="https://discord.com/widget?id=876700045313998909&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-</div>
+
+(<img align="left" alt="Trexton officials Discord Server" src="https://media.discordapp.net/attachments/877494014742503445/911597643266949130/trexton-logo.png"/>)[https://discord.gg/bFvWhF3whF]
