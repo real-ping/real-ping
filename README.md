@@ -5,8 +5,8 @@
 - 🎉 I’m currently working a social media app called [Trexton](https://discord.gg/bFvWhF3whF)
 - 🌱 I’m trying learning everything 🤣
 - 👯 I’m looking to collaborate with other chill developers
-- 🥅 My goal is to be more active on GitHub.
-- ⚡ Fun fact: I love to play ping pong and watching movies :D
+- 🥅 My goal is to be more active on [GitHub](https://github.com/real-ping)
+- ⚡ Fun fact: I love to play ping pong and watching movies 😀
 
 ### Connect with me:
 
@@ -28,10 +28,6 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br />
-<br />
-
----
 ### My GitHub Stats:
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=real-ping&show_icons=true&hide_border=true&count_private=true" />
