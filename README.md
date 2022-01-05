@@ -2,7 +2,7 @@
 
 ## I'm a Developer, Student, Gamer, and very chill person!!
 
-- 🎉 I’m currently working a social media app called Trexton
+- 🎉 I’m currently working a social media app called [Trexton](https://discord.gg/bFvWhF3whF)
 - 🌱 I’m trying learning everything 🤣
 - 👯 I’m looking to collaborate with other chill developers
 - 🥅 My goal is to be more active on GitHub.
