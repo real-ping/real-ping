@@ -13,8 +13,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="My Youtube Channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][https://www.youtube.com/channel/UCp6_ANErMYisCCx8Qy5Q0DA]
-[<img align="left" alt="My Twitter Channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/Ping_not_real]
+[<img align="left" alt="My Youtube Channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCp6_ANErMYisCCx8Qy5Q0DA)
+[<img align="left" alt="My Twitter Channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Ping_not_real)
 
 <br />
 
